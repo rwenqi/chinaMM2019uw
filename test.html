@@ -1,0 +1,390 @@
+
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>基于深度学习的图像压缩后处理竞赛</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="stylesheet" type="text/css" href="css/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
+
+    <link href="css/owl.carousel.css" rel="stylesheet" media="screen">
+    <link href="css/owl.theme.css" rel="stylesheet" media="screen">
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+    <link rel="stylesheet" type="text/css" href="css/workshop.css">
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" style="color: #000">
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="height: auto">
+    <div style="position: absolute; padding: 10px 0px 0px 20px; margin-top: -17px; font-size: large">
+        <p><a href="http://mm.ccf.org.cn/chinamm/2018/">中国多媒体大会2018</a></p>
+    </div>
+    <div class="container">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <i class="fa fa-bars"></i>
+            </button>
+        </div>
+
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse" >
+            <ul class="nav navbar-nav">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li><a class="page-scroll" href="#introduction" style="font-size: 14pt;">竞赛简介</a></li>
+                <li><a class="page-scroll" href="#notice" style="font-size: 14pt;">参赛须知</a></li>
+                <li><a class="page-scroll" href="#dates" style="font-size: 14pt;">日程安排</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="modified-header intro" style="background-image: url(img/title.png); padding-top: 10px">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2" style="margin-top:  100px;">
+                    <h1><span  style="color: aliceblue;!important;">基于深度学习的<br>图像压缩后处理竞赛</span></h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="news-session" id="news" >
+    <div class="container">
+        <div class="section-title text-center center" style="">
+            <h2>最新消息</h2>
+            <hr>
+        </div>
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+                <table class="hidden" id="sample">
+                    <tr class="news-item" style="background-color: #FFFFFF">
+                        <td class="news-text"><span class="glyphicon glyphicon-heart" aria-hidden="true"></span></td>
+                        <td class="news-text" width="150px">
+                            <strong></strong>
+                        </td>
+                        <td class="news-text" style="font-size: 14pt">
+                        </td>
+                    </tr>
+                </table>
+                <table class="news-container">
+
+
+                </table>
+                <div class="hidden">
+                    <div class="dev-item">
+                        <span>2018.9.15</span>
+                        <span>竞赛各项奖励已在中国多媒体大会2018晚宴期间颁发。</span>
+                    </div>
+                </div>
+                <div class="hidden">
+                    <div class="dev-item">
+                        <span>2018.8.30</span>
+                        <span><a href="#awardlist">竞赛获奖名单</a>发布，感谢腾讯音视频实验室提供全部奖金赞助！</span>
+                    </div>
+                </div>
+                <div class="hidden">
+                    <div class="dev-item">
+                        <span>2018.8.10</span>
+                        <span>竞赛方案提交阶段已结束，组委会正在对所有参赛方案进行复评。</span>
+                    </div>
+                </div>
+                <div class="hidden">
+                    <div class="dev-item">
+                        <span>2018.7.16</span>
+                        <span>竞赛提交系统开始使用：<a href="https://cnbita.com/views/activity-detail.html?activityId=_ad7d2bc8117f449893f007da80d8072b">网址</a>。</span>
+                    </div>
+                </div>
+                <div class="hidden">
+                    <div class="dev-item">
+                        <span>2018.5.15</span>
+                        <span><a href="#download">基线方案</a>发布。</span>
+                    </div>
+                </div>
+                <div class="hidden">
+                    <div class="dev-item">
+                        <span>2018.4.11</span>
+                        <span>竞赛网站首次上线。</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="awardlist" style="background-color: #F5F5F5">
+    <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
+                <div class="section-title text-center center">
+            <h2>获奖名单</h2>
+            <hr>
+            <ul class="welcome-message text-left" style="font-size: 14pt">
+                    <li class="welcome-message text-left">
+                        <strong>一等奖: </strong><br>张鲁（陕西师范大学）
+                    </li>
+                    <li class="welcome-message text-left">
+                        <strong>二等奖: </strong><br>何晓艺、林巍峣（上海交通大学）
+                    </li>
+
+                    <li class="welcome-message text-left">
+                        <strong>三等奖: </strong><br>黄航、程学理、江孟君、张旭、冷龙韬、周益民（电子科技大学）<br>
+                        何薇、孙琳钧、王伟、陈鹏、乔康（北京市威富安防科技有限公司）
+                    </li>
+
+                    <li class="welcome-message text-left">
+                        <strong>创意奖: </strong><br>陈晓铭、陈国民、袁圆、王妙辉（深圳大学）<br>
+                        王宏宇、陈健、顾坚彬、庞睿婷（电子科技大学）<br>
+                        吴双彤、陈鑫、温亮、刘长滔（北京理工大学/北京工业大学）
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="after">
+    <div class="container"> <!-- Container -->
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="section-title text-center center">
+                <h2>竞赛后续</h2>
+                <hr>
+                <p class="welcome-message text-left" style="font-size: 14pt">
+                    本次竞赛的数据集（含测试集）、评测代码、获得一等奖的方案将全部公开发布，请留意页面更新。获得一等奖的方案将推荐给 AVS 工作组智能编码小组。
+                </p>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<div  id="download" style="background-color: #F5F5F5">
+    <div class="container" > <!-- Container -->
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="section-title text-center center">
+                <h2>相关下载</h2>
+                <hr>
+                <div class="welcome-message text-left" style="font-size: 14pt">
+                <p>
+                	请注意，每人仅限参加一支队伍，不可重复参加。
+                </p>
+                <p>
+                	请将下列信息发送邮件至：<a href="ppchallenge2018@163.com">ppchallenge2018@163.com</a>，数据下载及使用方式将邮件回复告知。
+                </p>
+                <p>
+                	队伍名称、队员（每位队员的真实姓名、单位、电子邮箱）、联系手机号。
+                </p>
+                <p>
+                  基线方案1：下载<a href="baseline1.zip">caffe模型</a>
+                </p>
+                <p>
+                  基线方案2：下载<a href="baseline2.zip">caffe模型</a>
+                </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="introduction">
+    <div class="container"> <!-- Container -->
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="section-title text-center center">
+                <h2>竞赛简介</h2>
+                <hr>
+                <p class="welcome-message text-left" style="font-size: 14pt">
+                    现有图像压缩方案一般会造成图像信息损失、图像质量下降，产生人工痕迹 (artifacts)。图像压缩后处理是指针对压缩图像设计质量增强和人工痕迹消除的方法，改善图像的视觉效果。类似地，后处理在视频压缩中也被广泛采用。近年来，深度学习在计算机视觉和图像处理中得到了广泛应用，也有一些研究工作将深度学习用于图像或视频压缩后处理，并得到了一定的效果。然而，现有工作的一个主要问题是用于后处理的深度网络较为复杂，计算速度慢，不满足实际应用的需求。如何在处理效果和处理速度之间取得一个折中，是压缩后处理的一个主要挑战。
+                </p>
+                <p class="welcome-message text-left" style="font-size: 14pt">
+                    此项竞赛旨在吸引国内多媒体领域的研究人员特别是青年学生对图像视频压缩的研究兴趣，提升国内相关研究水平。竞赛中优胜的方案将推荐给我国自主知识产权的音视频编解码技术标准 AVS 工作组。
+                </p>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<div  id="notice" style="background-color: #F5F5F5">
+    <div class="container" > <!-- Container -->
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="section-title text-center center">
+                <h2>参赛须知</h2>
+                <hr>
+                <div class="welcome-message text-left" style="font-size: 14pt">
+                <p>
+                    1. 训练: 训练集包含 1541 张高质量图像，参赛方也可自主选用其他图像。
+                </p>
+                <p>
+                    2. 验证: 验证集包含 45 张高质量图像。
+                </p>
+                <p>
+                    3. 测试: 测试集不公开，但与验证集数量、性质相似。
+                </p>
+                <p>
+                    4. 测试环境: 将提供测试环境的描述和测试代码的框架。
+                </p>
+                <p>
+                    5. 评测过程: 参赛方需提交代码，由竞赛组委会在特定测试环境中测试代码的处理效果和处理速度，两者排名均靠前者为优胜，所有评测结果均在网上及时发布。
+                </p>
+                <p>
+                    6. 基线方案: 竞赛组委会提供两套基线方案供参赛方熟悉流程并作为参考。
+                </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="dates" style="background-color: #FFFFFF">
+    <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="section-title text-center center">
+                <h2>
+                    日程安排
+                </h2>
+                <hr>
+                <ul class="welcome-message text-left" style="font-size: 14pt">
+                    <li class="welcome-message text-left">
+                        <strong>4月15日: </strong>竞赛网站上线，同时发布训练集和验证集。
+                    </li>
+                    <li class="welcome-message text-left">
+                        <strong>5月15日: </strong>发布基线方案。
+                    </li>
+
+                    <li class="welcome-message text-left">
+                        <strong>6月30日: </strong>注册截止。
+                    </li>
+
+                    <li class="welcome-message text-left">
+                        <strong>8月10日: </strong>代码提交截止。
+                    </li>
+
+                    <li class="welcome-message text-left">
+                        <strong>8月20日: </strong>文档提交截止。
+                    </li>
+
+                    <li class="welcome-message text-left">
+                        <strong>8月31日: </strong>公布竞赛结果。
+                    </li>
+
+                    <li class="welcome-message text-left">
+                        <strong>9月16日: </strong>(中国多媒体大会期间、西安) 颁奖。
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="background-color: #F5F5F5">
+    <div class="container">
+        <div class="section-title text-center center">
+            <h2>
+                竞赛组委会
+            </h2>
+            <hr>
+        </div>
+        <div>
+        	<div class="row">
+                <div class="col-lg-3 col-lg-offset-1">
+                    <img src="img/DongLiu.jpg" width="180px" style="border-radius: 50%; border: solid #4bc9b0 thick" class="img-rounded">
+                </div>
+                <div class="col-lg-7" style="font-size: x-large">
+                    <strong>刘东</strong>，副教授<br>
+                    中国科学技术大学<br>
+                    Email: dongeliu@ustc.edu.cn<br>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-3 col-lg-offset-1">
+                    <img src="img/Liujiaying_square.jpeg" width="180px" style="border-radius: 50%; border: solid #4bc9b0 thick" class="img-rounded">
+                </div>
+                <div class="col-lg-7" style="font-size: x-large">
+                    <strong>刘家瑛</strong>，副教授<br>
+                    北京大学<br>
+                    Email: liujiaying@pku.edu.cn<br>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-3 col-lg-offset-1">
+                    <img src="img/SiweiMa.png" width="180px" style="border-radius: 50%; border: solid #4bc9b0 thick" class="img-rounded">
+                </div>
+                <div class="col-lg-7" style="font-size: x-large">
+                    <strong>马思伟</strong>，教授<br>
+                    北京大学<br>
+                    Email: swma@pku.edu.cn<br>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-3 col-lg-offset-1">
+                    <img src="img/HaifengLiu.png" width="180px" style="border-radius: 50%; border: solid #4bc9b0 thick" class="img-rounded">
+                </div>
+                <div class="col-lg-7" style="font-size: x-large">
+                    <strong>刘海峰</strong>，CEO<br>
+                    合肥中科类脑智能技术有限公司<br>
+                    Email: haifeng@leinao.ai<br>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="background-color: #FFFFFF" class="">
+    <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="section-title text-center center">
+                <h2>
+                    技术支持
+                </h2>
+                <hr>
+                <p class="welcome-message text-left">
+                    感谢腾讯音视频实验室提供 TPG 压缩格式技术支持。
+                </p>
+                <p class="welcome-message text-left">
+                    TPG (Tiny Portable Graphics) 是由腾讯音视频实验室推出的新一代互联网图像标准格式，在同等质量下，TPG 图片格式的文件大小明显小于 JPG/JPEG, PNG, GIF, WEBP 等业界主流图片格式。现已提供转换工具，可以方便快速的将这些格式转换到 TPG 格式，实现无缝接入。
+                </p>
+                <p class="welcome-message text-left">
+                    腾讯音视频实验室，专注于音视频通信技术的前瞻性研究，包括全球实时音视频网络优化、音视频编解码前沿算法研究、计算机视觉图像处理、基于 AI 的音频语音增强、声音美化及音视频质量评测等。在服务于腾讯社交体系下的海量用户同时，在实时音视频通信、图像处理和音视频处理等技术领域积累了十几年的研究经验，拥有行业领先的技术水平。团队网页：<a href="http://medialab.qq.com/">http://medialab.qq.com/</a>，微信公众号：腾讯音视频实验室，邮箱：<a href="mailto:medialab@tencent.com">medialab@tencent.com</a>。
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<footer class="page-footer" style="background-color: rgb(34,34,34); margin: 0 !important; color: #F5F5F5">
+    <div class="container">
+        <div class="text-center fnav">
+            <p>Copyright © 2018 竞赛组委会</p>
+        </div>
+    </div>
+</footer>
+
+<script type="text/javascript" src="js/jquery-3.1.0.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/SmoothScroll.js"></script>
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<script type="text/javascript" src="js/jquery.counterup.js"></script>
+<script type="text/javascript" src="js/waypoints.js"></script>
+<script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
+<script type="text/javascript" src="js/contact_me.js"></script>
+<script src="js/owl.carousel.js"></script>
+
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+</body>
+</html>
