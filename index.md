@@ -35,11 +35,10 @@
 
 ## 竞赛组委会
 <img src="https://github.com/Leslli/chinaMM2019/blob/master/image/fanxin.png" width="90" height="106"/>**樊  鑫**  
-大连理工大学 教授
-***樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授  
-<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/liurisheng.jpg" width="90" height="106"/>
-**刘日升** &nbsp; 大连理工大学 &nbsp; &nbsp; 副教授  
-<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/guoxiaojie.jpg" width="90" height="106"/>
-**郭晓杰** &nbsp;天津大学 &nbsp;&nbsp;  副教授  
-<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/renwenqi.png" width="90" height="106"/>
-**任文琦** &nbsp; 中科院信息工程研究所 &nbsp; &nbsp; 助理研究员  
+大连理工大学 教授  
+<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/liurisheng.jpg" width="90" height="106"/>**刘日升**  
+大连理工大学 &nbsp; &nbsp; 副教授  
+<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/guoxiaojie.jpg" width="90" height="106"/>**郭晓杰**  
+天津大学 &nbsp;&nbsp;  副教授  
+<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/renwenqi.png" width="90" height="106"/>**任文琦**  
+中科院信息工程研究所 &nbsp; &nbsp; 助理研究员  
