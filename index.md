@@ -36,11 +36,11 @@
 9月初ChinaMM大会期间 竞赛颁奖
 
 ## 竞赛组委会
-![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/fanxin.png)
-**樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授 
-![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/yuanfang.png)
+![image](https://github.com/Leslli/chinaMM2019/blob/master/image/fanxin.png)
+**樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授
+![image](https://github.com/Leslli/chinaMM2019/blob/master/image/liurisheng.png)
 **刘日升** &nbsp; 大连理工大学 &nbsp; &nbsp; 副教授  
-![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/zhangyang.png)
+![image](https://github.com/Leslli/chinaMM2019/blob/master/image/guoxiaojie.png)
 **郭晓杰** &nbsp;天津大学（Texas A&M University）&nbsp;&nbsp;  副教授  
-![image](https://raw.githubusercontent.com/rwenqi/cc1.github.com/master/180.png)
+![image](https://github.com/Leslli/chinaMM2019/blob/master/image/renwenqi.png)
 **任文琦** &nbsp; 中科院信息工程研究所 &nbsp; &nbsp; 助理研究员  
