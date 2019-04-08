@@ -1,7 +1,7 @@
 # 竞赛主题：图像去雾处理
 ![image](https://raw.githubusercontent.com/rwenqi/test.github.com/master/dehazing.png)  
 
-参与竞赛人员请将下列信息发送邮件至：dehaze18challenge@163.com，数据下载及使用方式将邮件回复告知。  
+参与竞赛人员请将下列信息发送邮件至：xxx@xx.com，数据下载及使用方式将邮件回复告知。  
 队伍名称、队员（每位队员的真实姓名、单位、电子邮箱）、联系手机号。  
 报名截止时间为6月30日。每人仅限参加一支队伍，不可重复参加。  
 
@@ -36,11 +36,11 @@
 9月初ChinaMM大会期间 竞赛颁奖
 
 ## 竞赛组委会
-![image](https://github.com/Leslli/chinaMM2019/blob/master/image/fanxin.png)
-**樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授
-![image](https://github.com/Leslli/chinaMM2019/blob/master/image/liurisheng.jpg)
-**刘日升** &nbsp; 大连理工大学 &nbsp; &nbsp; 副教授   
-![image](https://github.com/Leslli/chinaMM2019/blob/master/image/guoxiaojie.jpg)
-**郭晓杰** &nbsp;天津大学（Texas A&M University）&nbsp;&nbsp;  副教授  
-![image](https://github.com/Leslli/chinaMM2019/blob/master/image/renwenqi.png)
+<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/fanxin.png" width="90" height="106" alt="樊鑫  大连理工大学 教授"/>
+**樊鑫**  &nbsp;  大连理工大学 &nbsp; &nbsp; 教授  
+<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/liurisheng.jpg" width="90" height="106" alt="樊鑫  大连理工大学 教授"/>
+**刘日升** &nbsp; 大连理工大学 &nbsp; &nbsp; 副教授  
+<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/guoxiaojie.jpg" width="90" height="106" alt="樊鑫  大连理工大学 教授"/>
+**郭晓杰** &nbsp;天津大学 &nbsp;&nbsp;  副教授  
+<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/renwenqi.png" width="90" height="106" alt="樊鑫  大连理工大学 教授"/>
 **任文琦** &nbsp; 中科院信息工程研究所 &nbsp; &nbsp; 助理研究员  
