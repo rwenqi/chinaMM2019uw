@@ -1,5 +1,5 @@
 # 竞赛主题：水下图像增强
-![image](https://github.com/Leslli/chinaMM2019/blob/master/image/logo.png)
+![image]({{ site.baseurl }}/blob/master/image/logo.png)
 
 ## 参赛方式：
 参与竞赛人员请将下列信息发送邮件至：chinamm2019uw@163.com。  
@@ -23,8 +23,8 @@
 
 
 ## 日程安排：
-![image](https://github.com/Leslli/chinaMM2019/blob/master/image/graph.png)  
+![image]({{ site.baseurl }}/blob/master/image/graph.png)  
 
 ## 竞赛组委会
-![image](https://github.com/Leslli/chinaMM2019/blob/master/image/members.png)  
+![image]({{ site.baseurl }}/blob/master/image/members.png)  
 
