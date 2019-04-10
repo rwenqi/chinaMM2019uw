@@ -1,13 +1,9 @@
 # 竞赛主题：水下图像增强
-![image](https://raw.githubusercontent.com/rwenqi/test.github.com/master/dehazing.png)  
+![image](https://github.com/Leslli/chinaMM2019/blob/master/image/logo.png)
 
-参与竞赛人员请将下列信息发送邮件至：chinamm2019uw@163.com，数据下载及使用方式将邮件回复告知。  
-队伍名称、队员（每位队员的真实姓名、单位、电子邮箱）、联系手机号。  
-报名截止时间为x月xx日。每人仅限参加一支队伍，不可重复参加。  
-
-## 更新
-
-## 参赛队伍
+## 参赛方式：
+参与竞赛人员请将下列信息发送邮件至：chinamm2019uw@163.com。  
+队伍名称、队员（每位队员的真实姓名、单位、电子邮箱）、联系手机号。每人仅限参加一支队伍，不可重复参加。  
 
 ## 竞赛简介：
 水下图像是海洋信息的重要载体，通过水下相机和水下机器人等方式采集到的水下图像，因水下复杂的成像环境以及光照条件导致目前水下图像常出现对比度低、纹理模糊、颜色失真、光照不均匀和可视范围有限等图像质量退化问题。水下图像增强算法则是指针对水下成像系统拍摄得到的低质量图像进行恢复和增强的方法，改善图像的视觉效果。  
@@ -17,31 +13,18 @@
 此项竞赛旨在吸引国内多媒体/计算机视觉领域的研究人员，衷心希望学术界和工业界的研究人员踊跃参加，旨在推动人工智能发展以及水下机器人技术进步，架起学术界与工业界之间的沟通桥梁，促进图像增强与复原相关理论、技术及应用的发展，提升相关研究水平。  
 
 ## 竞赛描述：
-1. 训练：提供水下图像的训练集，但不限定训练集  
+1. 训练：提供水下图像训练集，但不限定训练集  
 2. 验证：提供水下图像验证集，验证集与训练集由不同图像和参数合成得到  
 3. 测试：测试集不会公开发布，但与验证集性质相似  
 4. 环境：不限定测试环境  
-5. 评测：参赛方需提交图像去雾处理代码，由组织方在测试代码并得到最终的处理效果和处理速度，两者排名均靠前者为优胜，所有评测结果均在网上及时发布
+5. 评测：参赛方需提交代码，由组织方在测试代码并得到最终的处理效果和运行速度，两者排名均靠前者为优胜，所有评测结果均在网上及时发布
+
+## 竞赛数据：
+
 
 ## 日程安排：
-日期|内容
-:--:|:--:
-4月10日|发布竞赛描述、训练集   
-5月30日|发布测试数据  
-7月10日|提交结果和代码  
-8月10日|公布竞赛结果  
-8月27-29日大会期间|竞赛颁奖
+![image](https://github.com/Leslli/chinaMM2019/blob/master/image/graph.png)  
 
 ## 竞赛组委会
-<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/fanxin.png" width="140" height="165"/><br> 
-<strong>樊&emsp;鑫</strong>&emsp;教授<br>
-大连理工大学<br> 
-<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/liurisheng.jpg" width="140" height="165"/><br>
-**刘日升**&emsp;副教授<br>
-大连理工大学<br> 
-<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/guoxiaojie.jpg" width="140" height="165"/><br> 
-**郭晓杰**&emsp;副教授<br> 
-天津大学 &nbsp;&nbsp;<br> 
-<img src="https://github.com/Leslli/chinaMM2019/blob/master/image/renwenqi.png" width="140" height="165"/><br> 
-**任文琦**&emsp;助理研究员<br> 
-中科院信息工程研究所 &nbsp; &nbsp;   
+![image](https://github.com/Leslli/chinaMM2019/blob/master/image/members.png)  
+
