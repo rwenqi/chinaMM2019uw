@@ -1,5 +1,5 @@
 # 竞赛主题：水下图像增强
-![image](/image/logo.png)
+![image](/image/newlogo.png)
 
 ## 参赛方式：
 参与竞赛人员请将下列信息发送邮件至：chinamm2019uw@163.com。  
@@ -20,7 +20,8 @@
 5. 评测：参赛方需提交代码，由组织方在测试代码并得到最终的处理效果和运行速度，两者排名均靠前者为优胜，所有评测结果均在网上及时发布
 
 ## 竞赛数据：
-
+竞赛训练数据集：链接: https://pan.baidu.com/s/1vAuJjOeBGJDA9X1ljQtYKA 提取码: 7e43 </br>
+竞赛验证数据集：链接: https://pan.baidu.com/s/1Cls4EL-WoiFhzmAf1GhZsQ 提取码: bzun 
 
 ## 日程安排：
 ![image](/image/graph.png)  
