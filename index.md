@@ -19,6 +19,8 @@
 4. 环境：不限定测试环境；  
 5. 评测：鉴于合成数据与真实图像差异较大，本次竞赛中所有图像数据均为真实采集的水下图像数据，竞赛结果以task-driven metric作为评审依据[1]。参赛方需提交代码和图像增强结果，由组织方测试代码并得到最终的处理效果，排名靠前者为优胜，所有评测结果均在网上及时发布。
 
+[1]Risheng Liu, Xin fan, Ming Zhu, Minjun Hou, and Zhongxuan Luo.Real-world Underwater Enhancement: Challenges,Benchmarks, and Solutions.<https://arxiv.org/pdf/1901.05320.pdf>
+
 ## 竞赛数据：
 竞赛训练及验证数据集：链接: https://pan.baidu.com/s/1XpXJo7H5NXYvq0aQUJ_wzw 提取码: 6qci 
 
@@ -28,4 +30,3 @@
 ## 竞赛组委会
 ![image](/image/members.png)  
 
-[1]Risheng Liu, Xin fan, Ming Zhu, Minjun Hou, and Zhongxuan Luo.Real-world Underwater Enhancement: Challenges,Benchmarks, and Solutions.<https://arxiv.org/pdf/1901.05320.pdf>
