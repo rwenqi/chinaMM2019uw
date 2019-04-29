@@ -25,7 +25,7 @@
 竞赛训练及验证数据集：链接: https://pan.baidu.com/s/1XpXJo7H5NXYvq0aQUJ_wzw 提取码: 6qci 
 
 ## 日程安排：
-![image](/image/graph.png)  
+![image](/image/date.png)  
 
 ## 竞赛组委会
 ![image](/image/members.png)  
