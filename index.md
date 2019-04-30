@@ -28,5 +28,5 @@
 ![image](/image/date.png)  
 
 ## 竞赛组委会
-![image](/image/members.png)  
+![image](/image/people.png)  
 
