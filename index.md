@@ -29,4 +29,6 @@
 
 ## 竞赛组委会
 ![image](/image/people.jpg)  
+CCF 多媒体专委会
+CSIG 机器视觉专委会
 
